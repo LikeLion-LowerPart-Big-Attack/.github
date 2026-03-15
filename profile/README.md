@@ -98,6 +98,6 @@
 
 <div align="center">
 
-**Powered by 🦁 멋쟁이사자처럼**
+**Powered by 🦁 멋사대학**
 
 </div>
