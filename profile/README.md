@@ -56,9 +56,9 @@
   </tr>
   <tr>
     <td align="center"><b>연암공대</b></td>
-    <td align="center"><a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>https://www.instagram.com/likelion_yc/</a></td>
-    <td align="center"><a href=""><img src="https://img.shields.io/badge/홈페이지-0A9396?style=flat-square&logo=googlechrome&logoColor=white" alt="홈페이지"/>https://likelion-page.onrender.com/</a></td>
-    <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>https://github.com/LikeLion-Yonam-Institute-of-Technology</a></td>
+    <td align="center"><a href="https://www.instagram.com/likelion_yc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>/</a></td>
+    <td align="center"><a href="https://likelion-page.onrender.com/"><img src="https://img.shields.io/badge/홈페이지-0A9396?style=flat-square&logo=googlechrome&logoColor=white" alt="홈페이지"/></a></td>
+    <td align="center"><a href="https://github.com/LikeLion-Yonam-Institute-of-Technology"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a></td>
   </tr>
   <tr>
     <td align="center"><b>창원대</b></td>
