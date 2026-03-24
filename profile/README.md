@@ -130,6 +130,6 @@
 
 <div align="center">
 
-**Powered by 🦁 멋사대학**
+**Powered by 🦁 멋쟁이사자처럼 영남·호남 6개 대학 연합**
 
 </div>
